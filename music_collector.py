@@ -9,7 +9,7 @@ def draw_table(all_records):
         table.add_row(record)
     print(table)
 
-
+# blabla
 
 def import_file1(filename):
     full_content = []
